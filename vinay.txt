@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding file with same name
+=======
+this is new file.
+>>>>>>> abd66e74abb0f324b7a1986ab2720c8124ee408d
